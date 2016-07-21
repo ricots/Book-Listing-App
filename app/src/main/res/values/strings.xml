@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name" translatable="false">Book Search</string>
+    <string name="action_search">Search</string>
+    <string name="msg_network_unavailable">You are not connected to the internet.</string>
+
+    <string name="search_view_query_hint">Search books</string>
+    <string name="text_view_empty">No books found</string>
+    <string name="text_view_book_author_empty">No Authors</string>
+    <string name="button_search_books">SEARCH BOOKS</string>
+
+</resources>
