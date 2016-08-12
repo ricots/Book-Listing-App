@@ -4,7 +4,7 @@
 
 **Author: [Timotius Oktorio](https://ca.linkedin.com/in/timotiusoktorio "LinkedIn Profile") (timotiusoktorio@gmail.com)**
 
-Simple Android app that allows user to search books from Google Play Books database using the Google Books APIs by simply entering the book keyword.
+Simple Android app that allows user to search books from Google Play Books database using the Google Books APIs.
 
 _This app is created as the seventh project of Android Basics Nanodegree program at Udacity._
 
